@@ -5,7 +5,7 @@ import (
 	"log"
 	"sync"
 
-	"github.com/KOSASIH/skybridge/utils"
+	"github.com/your-username/utils"
 )
 
 // Node represents a node in a graph
