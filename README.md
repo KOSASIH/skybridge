@@ -1,2 +1,2 @@
 # skybridge
-CelestiaNet is a revolutionary, next-generation network infrastructure project that seeks to unify the world through a seamless, high-speed, and secure connectivity platform.
+skybridge is an open-source repository for the development of CelestiaNet, a revolutionary, next-generation network infrastructure project that unifies the world through a seamless, high-speed, and secure connectivity platform. This repository contains the core codebase, tools, and resources for building and deploying the CelestiaNet network, including the Pi Network and Starlink satellite integration.
