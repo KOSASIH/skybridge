@@ -10,7 +10,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/KOSASIH/skybridge/utils"
+	"github.com/your-username/utils"
 )
 
 var (
