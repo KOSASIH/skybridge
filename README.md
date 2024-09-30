@@ -12,6 +12,11 @@
 [![UN SDGs Partner](https://img.shields.io/badge/UN%20SDGs%20Partner-yes-green)](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
 [![WHO Collaborator](https://img.shields.io/badge/WHO%20Collaborator-yes-red)](https://www.who.int/)
 [![ISO Member](https://img.shields.io/badge/ISO%20Member-yes-yellow)](https://www.iso.org/)
+[![ITU-T X.509v3](https://img.shields.io/badge/ITU--T%20X.509v3-SKYBRIDGE--001--ITU--2023-blue)](https://github.com/KOSASIH/skybridge)
+[![ICAO-AIDC](https://img.shields.io/badge/ICAO--AIDC-SKYBRIDGE--001--ICAO--2023--001-orange)](https://github.com/KOSASIH/skybridge)
+[![ISO/IEC 27001:2022](https://img.shields.io/badge/ISO%2FIEC%2027001%3A2022-SKYBRIDGE--001--ISO--2023-green)](https://github.com/KOSASIH/skybridge)
+[![ITU-R M.493-15](https://img.shields.io/badge/ITU--R%20M.493--15-SKYBRIDGE--001--ITU--R--2023-yellow)](https://github.com/KOSASIH/skybridge)
+[![RFC 8890](https://img.shields.io/badge/RFC%208890-SKYBRIDGE--001--IETF--2023-purple)](https://github.com/KOSASIH/skybridge)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/skybridge">CelestiNet</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
