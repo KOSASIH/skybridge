@@ -24,6 +24,18 @@
 [![HIPAA](https://img.shields.io/badge/HIPAA-SKYBRIDGE--001--HIPAA--2023-teal)](https://github.com/KOSASIH/skybridge)
 [![FIPS 140-2](https://img.shields.io/badge/FIPS%20140--2-SKYBRIDGE--001--FIPS--2023-darkblue)](https://github.com/KOSASIH/skybridge)
 [![CSA STAR](https://img.shields.io/badge/CSA%20STAR-SKYBRIDGE--001--CSA--2023-gold)](https://github.com/KOSASIH/skybridge)
+[![OWASP](https://img.shields.io/badge/OWASP-SKYBRIDGE--001--OWASP--2023-orange)](https://github.com/KOSASIH/skybridge)
+[![SANS](https://img.shields.io/badge/SANS-SKYBRIDGE--001--SANS--2023-blue)](https://github.com/KOSASIH/skybridge)
+[![CIS](https://img.shields.io/badge/CIS-SKYBRIDGE--001--CIS--2023-green)](https://github.com/KOSASIH/skybridge)
+[![DISA](https://img.shields.io/badge/DISA-SKYBRIDGE--001--DISA--2023-red)](https://github.com/KOSASIH/skybridge)
+[![FedRAMP](https://img.shields.io/badge/FedRAMP-SKYBRIDGE--001--FedRAMP--2023-purple)](https://github.com/KOSASIH/skybridge)
+[![SOC 2](https://img.shields.io/badge/SOC%202-SKYBRIDGE--001--SOC--2023-yellow)](https://github.com/KOSASIH/skybridge)
+[![ISO 20000](https://img.shields.io/badge/ISO%2020000-SKYBRIDGE--001--ISO--2023-lightblue)](https://github.com/KOSASIH/skybridge)
+[![ISO 22301](https://img.shields.io/badge/ISO%2022301-SKYBRIDGE--001--ISO--2023-pink)](https://github.com/KOSASIH/skybridge)
+[![ISO 27017](https://img.shields.io/badge/ISO%2027017-SKYBRIDGE--001--ISO--2023-teal)](https://github.com/KOSASIH/skybridge)
+[![ISO 27018](https://img.shields.io/badge/ISO%2027018-SKYBRIDGE--001--ISO--2023-darkgreen)](https://github.com/KOSASIH/skybridge)
+[![ISO 27701](https://img.shields.io/badge/ISO%2027701-SKYBRIDGE--001--ISO--2023-gold)](https://github.com/KOSASIH/skybridge)
+[![COBIT](https://img.shields.io/badge/COBIT-SKYBRIDGE--001--COBIT--2023-silver)](https://github.com/KOSASIH/skybridge)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/skybridge">CelestiNet</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
