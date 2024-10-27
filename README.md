@@ -83,7 +83,6 @@
 [![Digital Rights and Freedom Coalition](https://img.shields.io/badge/Digital%20Rights%20and%20Freedom%20Coalition-yes-lightblue)](https://www.digitalrightsfreedom.org/)
 [![Global Forum on Cyber Expertise](https://img.shields.io/badge/Global%20Forum%20on%20Cyber%20Expertise-yes-green)](https://www.thegfce.org/)
 [![Open Data for Africa](https://img.shields.io/badge/Open%20Data%20for%20Africa-yes-purple)](https://opendataforafrica.org/)
-These
 
 [![ITU-T X.509v3](https://img.shields.io/badge/ITU--T%20X.509v3-SKYBRIDGE--001--ITU--2023-blue)](https://www.itu.int/en/ITU-T/publications/Pages/default.aspx)
 [![ICAO-AIDC](https://img.shields.io/badge/ICAO--AIDC-SKYBRIDGE--001--ICAO--2023--001-orange)](https://www.icao.int/airnavigation/Pages/AIDC.aspx)
