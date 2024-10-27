@@ -32,6 +32,22 @@
 [![SOC 2](https://img.shields.io/badge/SOC%202-SKYBRIDGE--001--SOC--2023-yellow)](https://www.aicpa.org/)
 [![ISO 20000](https://img.shields.io/badge/ISO%2020000-SKYBRIDGE--001--ISO--2023-lightblue)](https://www.iso.org/iso-20000-it-service-management.html)
 [![ISO 22301](https://img.shields.io/badge/ISO%2022301-SKYBRIDGE--001--ISO--2023-pink)](https://www.iso.org/iso-22301-business-continuity.html)
+[![ISO 27018](https://img.shields.io/badge/ISO%2027018-SKYBRIDGE--001--ISO--2023-darkgreen)](https://www.iso.org/iso-27018-data-privacy.html)
+[![ISO 27701](https://img.shields.io/badge/ISO%2027701-SKYBRIDGE--001--ISO--2023-gold)](https://www.iso.org/iso-27701-privacy-information-management.html)
+[![COBIT](https://img.shields.io/badge/COBIT-SKYBRIDGE--001--COBIT--2023-silver)](https://www.isaca.org/resources/cobit)
+[![ITIL](https://img.shields.io/badge/ITIL-SKYBRIDGE--001--ITIL--2023-blue)](https://www.axelos.com/best-practice-solutions/itil)
+[![GDPR](https://img.shields.io/badge/GDPR-SKYBRIDGE--001--GDPR--2023-purple)](https://gdpr.eu/)
+[![NIST Cybersecurity Framework](https://img.shields.io/badge/NIST%20Cybersecurity%20Framework-SKYBRIDGE--001--NIST--2023-orange)](https://www.nist.gov/cyberframework)
+[![ISO 31000](https://img.shields.io/badge/ISO%2031000-SKYBRIDGE--001--ISO--2023-green)](https://www.iso.org/iso-31000-risk-management.html)
+[![ISO 9001](https://img.shields.io/badge/ISO%209001-SKYBRIDGE--001--ISO--2023-lightblue)](https://www.iso.org/iso-9001-quality-management.html)
+[![ISO 14001](https://img.shields.io/badge/ISO%2014001-SKYBRIDGE--001--ISO--2023-teal)](https://www.iso.org/iso-14001-environmental-management.html)
+[![ISO 45001](https://img.shields.io/badge/ISO%2045001-SKYBRIDGE--001--ISO--2023-darkred)](https://www.iso.org/iso-45001-occupational-health-and-safety.html)
+[![CMMI](https://img.shields.io/badge/CMMI-SKYBRIDGE--001--CMMI--2023-gold)](https://cmmiinstitute.com/)
+[![TISAX](https://img.shields.io/badge/TISAX-SKYBRIDGE--001--TISAX--2023-silver)](https://www.enx.com/tisax/)
+[![CSA CCM](https://img.shields.io/badge/CSA%20CCM-SKYBRIDGE--001--CSA--2023-blue)](https://cloudsecurityalliance.org/research/ccm/)
+[![FISMA](https://img.shields.io/badge/FISMA-SKYBRIDGE--001--FISMA--2023-red)](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
+[![CMMC](https://img.shields.io/badge/CMMC-SKYBRIDGE--001--CMMC--2023-purple)](https://www.acq.osd.mil/cmmc/)
+[![ISO 50001](https://img.shields.io/badge/ISO%2050001-SKYBRIDGE--001--ISO--2023-lightgreen)](https://www.iso.org/iso-50001-energy-management.html)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/skybridge">CelestiNet</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
